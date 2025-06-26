@@ -1,1 +1,1 @@
-# Usharanikoorgallijayaramu-Customer_Churn_Prediction_and_Risk_Scoring
+Customer Churn Prediction and Risk Scoring
